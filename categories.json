@@ -1,0 +1,136 @@
+{
+  "categories": [
+    {
+      "idCategory": "1",
+      "strCategory": "Baby Names",
+      "strCategoryThumb": "https://iili.io/JNMeNqP.jpg",
+      "strCategoryDescription": "A collection of names typically given to newborns."
+    },
+    {
+      "idCategory": "2",
+      "strCategory": "Kick Counter",
+      "strCategoryThumb": "https://iili.io/JNMejLB.jpg",
+      "strCategoryDescription": "A tool for pregnant women to count fetal movements."
+    },
+    {
+      "idCategory": "3",
+      "strCategory": "Contraction Counter",
+      "strCategoryThumb": "https://iili.io/JNMehXV.jpg",
+      "strCategoryDescription": "A tool for tracking contractions during labor."
+    },
+    {
+      "idCategory": "4",
+      "strCategory": "Trends",
+      "strCategoryThumb": "https://iili.io/JNMeNqP.jpg",
+      "strCategoryDescription": "Popular topics or themes related to pregnancy and parenting."
+    },
+    {
+      "idCategory": "5",
+      "strCategory": "Pragnancy By Week",
+      "strCategoryThumb": "https://iili.io/JNMejLB.jpg",
+      "strCategoryDescription": "Information about fetal development and maternal changes by week of pregnancy."
+    },
+    {
+      "idCategory": "6",
+      "strCategory": "Daily Self-Care Checklist",
+      "strCategoryThumb": "https://iili.io/JNMehXV.jpg",
+      "strCategoryDescription": "A list of self-care activities to promote physical and emotional well-being during pregnancy."
+    },
+    {
+      "idCategory": "7",
+      "strCategory": "Pregnancy Tracker",
+      "strCategoryThumb": "https://iili.io/JNMeNqP.jpg",
+      "strCategoryDescription": "A tool for tracking various aspects of pregnancy, such as weight gain, symptoms, and appointments."
+    },
+    {
+      "idCategory": "8",
+      "strCategory": "Pregnancy Calendar",
+      "strCategoryThumb": "https://iili.io/JNMejLB.jpg",
+      "strCategoryDescription": "A calendar highlighting important milestones and events during pregnancy."
+    },
+    {
+      "idCategory": "9",
+      "strCategory": "Pregnancy Weight Gain Tracker",
+      "strCategoryThumb": "https://iili.io/JNMehXV.jpg",
+      "strCategoryDescription": "A tool for monitoring weight gain during pregnancy and ensuring it stays within healthy limits."
+    },
+    {
+      "idCategory": "10",
+      "strCategory": "Pregnancy Symptoms Tracker",
+      "strCategoryThumb": "https://iili.io/JNMeNqP.jpg",
+      "strCategoryDescription": "A tool for recording and managing common pregnancy symptoms."
+    },
+    {
+      "idCategory": "11",
+      "strCategory": "Pregnancy Food Safety Guide",
+      "strCategoryThumb": "https://iili.io/JNMejLB.jpg",
+      "strCategoryDescription": "Information on safe food choices and practices during pregnancy to prevent foodborne illnesses."
+    },
+    {
+      "idCategory": "12",
+      "strCategory": "Pregnancy Exercise Tracker",
+      "strCategoryThumb": "https://iili.io/JNMehXV.jpg",
+      "strCategoryDescription": "A tool for planning and tracking exercise routines suitable for pregnant women."
+    },
+    {
+      "idCategory": "13",
+      "strCategory": "Pregnancy Medication Safety Guide",
+      "strCategoryThumb": "https://iili.io/JNMeNqP.jpg",
+      "strCategoryDescription": "Information on the safety of medications during pregnancy and alternative treatment options."
+    },
+    {
+      "idCategory": "14",
+      "strCategory": "Pregnancy Sleep Tracker",
+      "strCategoryThumb": "https://iili.io/JNMejLB.jpg",
+      "strCategoryDescription": "A tool for monitoring sleep patterns and addressing sleep disturbances during pregnancy."
+    },
+    {
+      "idCategory": "15",
+      "strCategory": "Pregnancy Doctor Visit Planner",
+      "strCategoryThumb": "https://iili.io/JNMehXV.jpg",
+      "strCategoryDescription": "A planner to schedule and prepare for prenatal appointments with healthcare providers."
+    },
+    {
+      "idCategory": "16",
+      "strCategory": "Pregnancy Hospital Bag Checklist",
+      "strCategoryThumb": "https://iili.io/JNMeNqP.jpg",
+      "strCategoryDescription": "A checklist of essential items to pack for the hospital when preparing for labor and delivery."
+    },
+    {
+      "idCategory": "17",
+      "strCategory": "Pregnancy Baby Registry Checklist",
+      "strCategoryThumb": "https://iili.io/JNMejLB.jpg",
+      "strCategoryDescription": "A checklist of baby items to include in a registry for expectant parents."
+    },
+    {
+      "idCategory": "18",
+      "strCategory": "Pregnancy Baby Shower Planner",
+      "strCategoryThumb": "https://iili.io/JNMehXV.jpg",
+      "strCategoryDescription": "A planner to organize and host a baby shower celebration for an expectant mother."
+    },
+    {
+      "idCategory": "19",
+      "strCategory": "Pregnancy Baby Name Finder",
+      "strCategoryThumb": "https://iili.io/JNMeNqP.jpg",
+      "strCategoryDescription": "A tool for exploring and selecting baby names."
+    },
+    {
+      "idCategory": "20",
+      "strCategory": "Pregnancy",
+      "strCategoryThumb": "https://iili.io/JNMejLB.jpg",
+      "strCategoryDescription": "Information and resources related to pregnancy, childbirth, and newborn care."
+    },
+    {
+      "idCategory": "21",
+      "strCategory": "In the Womb",
+      "strCategoryThumb": "https://iili.io/JNMehXV.jpg",
+      "strCategoryDescription": "Insights into fetal development and the stages of pregnancy."
+    },
+    {
+      "idCategory": "22",
+      "strCategory": "Baby Shower",
+      "strCategoryThumb": "https://iili.io/JNMeNqP.jpg",
+      "strCategoryDescription": "Ideas, games, and decorations for hosting a baby shower event."
+    }
+  ]
+}
